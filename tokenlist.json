@@ -1,0 +1,57 @@
+{
+  "name": "LibraSwap Default List",
+  "timestamp": "2023-04-14T04:39:23.646Z",
+  "version": {
+    "major": 12,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB1f66997A5760428D3a87D68b90BfE0aE64121cC/logo.png",
+  "keywords": [
+    "libraswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "O USD Coin",
+      "address": "0xe715d7d229e6bcABa2aA8892dC58B84198cfFAdD",
+      "symbol": "OUSDC",
+      "decimals": 18,
+      "chainId": 195,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "O Tether USD",
+      "address": "0x66FB1593FD4ceB3D268A4011e23522e3463d1d68",
+      "symbol": "OUSDT",
+      "decimals": 18,
+      "chainId": 195,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "name": "O BTC",
+      "address": "0xBCE20487A43684DeD233943b6E61616a39fdB597",
+      "symbol": "OBTC",
+      "decimals": 18,
+      "chainId": 195,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    },
+    {
+      "name": "O Ether",
+      "address": "0x8f0F1c9e98C4e2c3f15F722A3bD833868Ef60f6E",
+      "symbol": "OETH",
+      "decimals": 18,
+      "chainId": 195,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "OLIB",
+      "address": "0x1a24E42bC4f3897B66deF54C86681bAaCE3485C2",
+      "symbol": "OLIB",
+      "decimals": 18,
+      "chainId": 195,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    }
+  ]
+}
